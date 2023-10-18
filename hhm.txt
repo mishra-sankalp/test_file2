@@ -4,3 +4,13 @@ cd ->change directory
 dir ->check all the folders/files in that location
 mkdir "folder_name"  ->make folder in that location
 touch "file_name.txt"  ->create file in that location
+
+GIT COMMANDS
+
+git init ->initialise
+git status -> check the status which files are staged/unstaged
+git add .  -> add all files to the stage
+git add "file_name.txt"  -> add file to the stage
+git commit  ->commit the file
+
+
