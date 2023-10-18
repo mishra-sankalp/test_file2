@@ -1,0 +1,6 @@
+BASIC CMD COMMANDS
+
+cd ->change directory
+dir ->check all the folders/files in that location
+mkdir "folder_name"  ->make folder in that location
+touch "file_name.txt"  ->create file in that location
