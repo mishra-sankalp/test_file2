@@ -11,6 +11,9 @@ git init ->initialise
 git status -> check the status which files are staged/unstaged
 git add .  -> add all files to the stage
 git add "file_name.txt"  -> add file to the stage
-git commit  ->commit the file
+git commit -m "commit message" ->commit the file
+git log  ->short log of all commits
+git log --oneline  ->shows message of commits along with hash codes to                                 identify each commit
+git diff  ->
 
 
