@@ -25,6 +25,10 @@ NOTE: origin is the variable that points to URL
 
 4. git push sankalp master  ->push origin to the master branch i.e local repo                                                   to github
 
+Branching
+
+
+
 
 
 
