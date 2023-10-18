@@ -14,6 +14,40 @@ git add "file_name.txt"  -> add file to the stage
 git commit -m "commit message" ->commit the file
 git log  ->short log of all commits
 git log --oneline  ->shows message of commits along with hash codes to                                 identify each commit
-git diff  ->
+git diff  -> changes made to file after commit
+
+
+Steps to make remote repo:-
+1.create repo on github.
+2. copy link of that from github
+3. git remote add origin <link>  ->in place of origin we can use any name but                                                          origin is standard.
+NOTE: origin is the variable that points to URL
+
+4. git push sankalp master  ->push origin to the master branch i.e local repo                                                   to github
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
